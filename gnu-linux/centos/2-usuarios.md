@@ -8,7 +8,7 @@ w
 
 # Criar Usuário.
 useradd usuario
-useradd -m usuario# Cria diretório home.
+useradd -m usuario # Cria diretório home.
 
 # Trocar senha.
 passwd usuario
